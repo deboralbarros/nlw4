@@ -231,3 +231,5 @@ E agora, para rodar, basta dar <code>yarn dev</code> que a aplicação estará r
 * [TypeORM](https://typeorm.io/#/)
 * [Nodemailer](https://nodemailer.com/about/)
 * [Ethereal](https://ethereal.email/) 
+* [Yup](https://github.com/jquense/yup)
+* [Jest](https://jestjs.io/)
