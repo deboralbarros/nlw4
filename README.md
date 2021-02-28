@@ -233,3 +233,4 @@ E agora, para rodar, basta dar <code>yarn dev</code> que a aplicação estará r
 * [Ethereal](https://ethereal.email/) 
 * [Yup](https://github.com/jquense/yup)
 * [Jest](https://jestjs.io/)
+* [Handlebars](https://handlebarsjs.com/)
